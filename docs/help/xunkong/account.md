@@ -45,7 +45,7 @@
 ## 书签内容
 
 ``` js
-javascript: (() => {
+javascript: (() => {UM_distinctid=184b9994847b62-0cea0e9582da59-604d6851-1a298c-184b9994848c0d; _MHYUUID=250a2fbd-d7d3-4a71-8cbf-e5257ea4d7a7; DEVICEFP_SEED_ID=e4fa57e4a34f9b1e; DEVICEFP_SEED_TIME=1669561141785; DEVICEFP=38d7ec273ff80; CNZZDATA1275023096=873341997-1669560883-%7C1669560883; _ga=GA1.1.860949496.1669561143; _ga_KS4J8TXSHQ=GS1.1.1669561142.1.0.1669561142.0.0.0; LOGIN_PLATFORM_SWITCH_STATUS={%22sms_login_tab%22:true%2C%22pwd_login_tab%22:true%2C%22password_reset_entry%22:true}
     if (location.host.includes('bbs.mihoyo.com')) {
         var cookie = document.cookie;
         if (cookie.includes('cookie_token') && cookie.includes('account_id')) {
